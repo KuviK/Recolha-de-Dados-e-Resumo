@@ -1,1 +1,1 @@
-# Recolha-de-Dados-e-Resumo
+# Recolha de Dados e Resumo
